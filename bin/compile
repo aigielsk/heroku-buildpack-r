@@ -65,6 +65,9 @@
 #    RServe is the most viable interface to R in this case. See the node.js example application.
 #
 
+# Test echo
+echo "This is Heroku R Buildpack: aigielsk fork"
+
 # fail fast
 set -e
 
